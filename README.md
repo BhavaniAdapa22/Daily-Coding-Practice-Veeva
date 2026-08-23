@@ -12,4 +12,4 @@ Java and SQL practice for Veeva and placement preparation.
 
 | Day | Java | SQL |
 |-----|------|-----|
-| Day 01 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | - |
+| Day 01 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [SQL Practice](Day-01/Java/Day01_SQL_Practice.sql) |
