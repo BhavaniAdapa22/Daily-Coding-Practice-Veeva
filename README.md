@@ -18,3 +18,4 @@ Java and SQL practice for Veeva and placement preparation.
 | Day 04 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/)  [Find Day of the Week](Day-04/Java/FindDayOftheWeek.java) | [SQL Practice](Day-04/SQL/)
 | Day 05 | [Java Practice](Day-05/Java) | [SQL Practice](Day-05/SQL/) |
 | Day 06 | [Java Practice](Day-06/Java) | [SQL Practice](Day-06/SQL/) |
+| Day 07 | [Java Practice](Day-07/Java) |
